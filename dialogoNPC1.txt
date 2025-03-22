@@ -4,4 +4,4 @@ Vivo en este pueblo desde que tengo memoria
 
 ¿Alguna vez estuviste aquí?
 
-[dialogoNPC-SI]
+[dialogoNPC-SI], [dialogoNPC-NO]
